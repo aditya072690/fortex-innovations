@@ -62,7 +62,7 @@ export default function Contact() {
 
   const contactInfo = [
     { icon: <FaEnvelope />, text: "fortexinnovations01@gmail.com" },
-    { icon: <FaPhone style={{ transform: "scaleX(-1)" }} />, text: "+91 8487085433" },
+    { icon: <FaPhone style={{ transform: "scaleX(-1)" }} />, text: "+91 9638985433" },
     { icon: <FaMapMarkerAlt />, text: "Vadodara, Gujarat, India" }
   ];
 
